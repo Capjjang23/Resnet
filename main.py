@@ -57,7 +57,7 @@ data_transforms = transforms.Compose([
 ])
 
 # 이미지 데이터 셋
-image_dataset = datasets.ImageFolder(root='abc_testImages', transform=data_transforms)
+image_dataset = datasets.ImageFolder(root='Images_227', transform=data_transforms)
 
 # 학습, 테스트 데이터 분리
 train_size = int(0.8 * len(image_dataset))  # 전체 데이터 비율 80%
@@ -107,7 +107,7 @@ for epoch in range(10):
         optimizer.step()
 
         running_loss += loss.item()
-        if i % 10 == 4:
+        if i % 10 == 6:
             print('[epoch :%d, %3d] loss: %.3f' % (epoch+1, i+1, running_loss/100))
             running_loss = 0.0
 
