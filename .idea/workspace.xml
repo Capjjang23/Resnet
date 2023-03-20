@@ -1,0 +1,823 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="add main.py">
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a234.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a235.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/a/a99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b202.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b203.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b204.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b205.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b206.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b207.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b208.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b209.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b210.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b211.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b212.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b213.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b214.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b215.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b216.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b217.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b218.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b219.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b220.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b221.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b222.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b223.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b224.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b225.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b226.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b227.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b228.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b229.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b230.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b231.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b232.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b233.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/b/b99.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c100.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c101.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c102.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c103.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c104.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c105.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c106.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c107.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c108.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c109.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c110.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c111.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c112.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c113.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c114.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c115.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c116.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c117.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c118.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c119.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c120.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c121.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c122.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c123.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c124.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c125.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c126.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c127.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c128.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c129.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c130.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c131.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c132.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c133.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c134.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c135.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c136.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c137.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c138.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c139.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c140.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c141.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c142.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c143.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c144.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c145.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c146.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c147.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c148.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c149.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c15.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c150.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c151.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c152.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c153.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c154.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c155.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c156.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c157.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c158.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c159.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c16.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c160.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c161.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c162.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c163.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c164.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c165.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c166.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c167.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c168.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c169.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c17.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c170.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c171.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c172.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c173.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c174.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c175.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c176.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c177.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c178.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c179.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c18.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c180.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c181.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c182.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c183.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c184.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c185.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c186.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c187.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c188.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c189.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c19.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c190.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c191.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c192.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c193.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c194.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c195.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c196.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c197.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c198.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c199.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c200.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c201.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c21.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c22.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c23.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c24.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c25.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c26.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c27.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c28.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c31.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c32.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c33.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c34.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c35.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c36.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c37.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c38.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c39.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c40.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c41.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c42.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c43.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c44.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c45.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c46.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c47.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c48.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c49.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c51.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c52.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c53.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c54.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c55.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c56.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c57.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c58.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c59.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c60.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c61.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c62.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c63.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c64.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c65.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c66.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c67.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c68.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c69.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c70.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c71.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c72.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c73.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c74.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c75.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c76.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c77.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c78.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c79.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c80.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c81.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c82.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c83.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c84.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c85.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c86.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c87.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c88.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c89.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c90.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c91.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c92.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c93.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c94.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c95.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c96.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c97.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c98.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Images_227/c/c99.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2N2JSIf3CqvOQ9oiPtGMkSil8gX" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mihye/Desktop/캡스톤/code/Resnet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Resnet" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="디폴트 작업">
+      <changelist id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="" />
+      <created>1678856241123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1678856241123</updated>
+    </task>
+    <task id="LOCAL-00001" summary="abc_testImage add">
+      <created>1678856339510</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856339510</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Initial commit">
+      <created>1678856429166</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856429166</updated>
+    </task>
+    <task id="LOCAL-00003" summary="초기 프로젝트 설정">
+      <created>1678856454430</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856454430</updated>
+    </task>
+    <task id="LOCAL-00004" summary="abc_testImages add">
+      <created>1678856491192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856491192</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Rice_Image_Dataset add">
+      <created>1678856520517</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856520517</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add main.py">
+      <created>1678856628641</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1678856628641</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="abc_testImage add" />
+    <MESSAGE value="Initial commit" />
+    <MESSAGE value="초기 프로젝트 설정" />
+    <MESSAGE value="abc_testImages add" />
+    <MESSAGE value="Rice_Image_Dataset add" />
+    <MESSAGE value="add main.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="add main.py" />
+  </component>
+</project>
