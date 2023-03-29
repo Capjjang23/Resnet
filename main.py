@@ -46,6 +46,8 @@ import torch
 
 
 # CUDA 초기화
+from torchvision.models import ResNet18_Weights
+
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 if device.type == "cuda":
     torch.cuda.init()
@@ -84,8 +86,8 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 torch.backends.cudnn.benchmark = True
 
 # ResNet18 모델 생성
-resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18', pretrained=True)
-resnet.fc = nn.Linear(512, 10) # 출력층의 뉴런 수는 10
+resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18', 'weights=ResNet18_Weights.IMAGENET1K_V1')
+resnet.fc = nn.Linear(512, 26) # 출력층의 뉴런 수는 10
 
 # 모델 학습을 위한 하이퍼파라미터 설정
 criterion = nn.CrossEntropyLoss()
@@ -107,7 +109,7 @@ for epoch in range(10):
         optimizer.step()
 
         running_loss += loss.item()
-        if i % 10 == 6:
+        if i % 100 == 99:
             print('[epoch :%d, %3d] loss: %.3f' % (epoch+1, i+1, running_loss/100))
             running_loss = 0.0
 
