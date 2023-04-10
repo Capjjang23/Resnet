@@ -2,7 +2,6 @@ import os
 import shutil
 
 import zipfile
-
 import torch
 import torchvision.models as models
 import torch.nn as nn
@@ -10,7 +9,6 @@ import torch.optim as optim
 import torchvision.transforms as transforms
 import torchvision.datasets as datasets
 from torch.utils.data import DataLoader
-
 
 import torchvision.datasets as datasets
 import torchvision.transforms as transforms
@@ -59,7 +57,7 @@ data_transforms = transforms.Compose([
 ])
 
 # 이미지 데이터 셋
-image_dataset = datasets.ImageFolder(root='Images_227', transform=data_transforms)
+image_dataset = datasets.ImageFolder(root='Image224', transform=data_transforms)
 
 # 학습, 테스트 데이터 분리
 train_size = int(0.8 * len(image_dataset))  # 전체 데이터 비율 80%
@@ -86,8 +84,8 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 torch.backends.cudnn.benchmark = True
 
 # ResNet18 모델 생성
-resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18', 'weights=ResNet18_Weights.IMAGENET1K_V1')
-resnet.fc = nn.Linear(512, 26) # 출력층의 뉴런 수는 10
+resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18')
+resnet.fc = nn.Linear(512, 26)  # 출력층의 뉴런 수는 10
 
 # 모델 학습을 위한 하이퍼파라미터 설정
 criterion = nn.CrossEntropyLoss()
@@ -109,8 +107,8 @@ for epoch in range(10):
         optimizer.step()
 
         running_loss += loss.item()
-        if i % 100 == 99:
-            print('[epoch :%d, %3d] loss: %.3f' % (epoch+1, i+1, running_loss/100))
+        if i % 100 == 99: # 800
+            print('[epoch :%d, %3d] loss: %.3f' % (epoch + 1, i + 1, running_loss / 100))
             running_loss = 0.0
 
     # 검증 데이터셋을 이용하여 모델 성능 평가
@@ -142,5 +140,6 @@ with torch.no_grad():
 print('Accuracy of the network on the test images: %d %%' % (100 * correct / total))
 
 # 모델 가중치와 state_dict 저장
-#checkpoint = {'model_state_dict': resnet.state_dict()}
-#torch.save(checkpoint, 'resnet18_model.pth')
+checkpoint = {'model_state_dict': resnet.state_dict()}
+torch.save(resnet.state_dict(), 'model_weights.pth')
+torch.save(resnet, 'model.pth')
