@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="파일 정리">
-      <change afterPath="$PROJECT_DIR$/K.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/testB.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/test.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
-    </list>
+    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="최종 모델 등록" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -196,7 +190,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681140823911</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="최종 모델 등록">
+      <created>1683013466267</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1683013466267</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -235,6 +236,7 @@
     <MESSAGE value="model 수정" />
     <MESSAGE value="add data" />
     <MESSAGE value="학습된 모델로 예측결과 가져오기" />
-    <option name="LAST_COMMIT_MESSAGE" value="학습된 모델로 예측결과 가져오기" />
+    <MESSAGE value="최종 모델 등록" />
+    <option name="LAST_COMMIT_MESSAGE" value="최종 모델 등록" />
   </component>
 </project>
