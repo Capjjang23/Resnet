@@ -51,18 +51,20 @@ if device.type == "cuda":
     torch.cuda.init()
 
 data_transforms = transforms.Compose([
-    transforms.Resize(224),
+    transforms.Resize(227),
+    transforms.CenterCrop(224),
     transforms.ToTensor(),
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
 ])
 
 # 이미지 데이터 셋
-image_dataset = datasets.ImageFolder(root='abc_testImages', transform=data_transforms)
+train_dataset = datasets.ImageFolder(root='trainImages', transform=data_transforms)
+test_dataset = datasets.ImageFolder(root='testImages', transform=data_transforms)
 
 # 학습, 테스트 데이터 분리
-train_size = int(0.8 * len(image_dataset))  # 전체 데이터 비율 80%
-test_size = len(image_dataset) - train_size
-train_dataset, test_dataset = torch.utils.data.random_split(image_dataset, [train_size, test_size])
+# train_size = int(0.8 * len(image_dataset))  # 전체 데이터 비율 80%
+# test_size = len(image_dataset) - train_size
+# train_dataset, test_dataset = torch.utils.data.random_split(image_dataset, [train_size, test_size])
 
 trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=32,
                                           shuffle=False, num_workers=0)
@@ -84,8 +86,8 @@ device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 torch.backends.cudnn.benchmark = True
 
 # ResNet18 모델 생성
-resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18', pretrained=True)
-resnet.fc = nn.Linear(512, 10) # 출력층의 뉴런 수는 10
+resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet18')
+resnet.fc = nn.Linear(512, 26) # 출력층의 뉴런 수는 10
 
 # 모델 학습을 위한 하이퍼파라미터 설정
 criterion = nn.CrossEntropyLoss()
@@ -93,7 +95,7 @@ optimizer = optim.SGD(resnet.parameters(), lr=0.001, momentum=0.9)
 
 # 모델 학습
 resnet.to(device)
-for epoch in range(10):
+for epoch in range(30):
     running_loss = 0.0
     for i, data in enumerate(trainloader, 0):
         inputs, labels = data
@@ -107,7 +109,7 @@ for epoch in range(10):
         optimizer.step()
 
         running_loss += loss.item()
-        if i % 10 == 4:
+        if i % 800 == 799:
             print('[epoch :%d, %3d] loss: %.3f' % (epoch+1, i+1, running_loss/100))
             running_loss = 0.0
 
@@ -139,6 +141,7 @@ with torch.no_grad():
 
 print('Accuracy of the network on the test images: %d %%' % (100 * correct / total))
 
-# 모델 가중치와 state_dict 저장
-#checkpoint = {'model_state_dict': resnet.state_dict()}
-#torch.save(checkpoint, 'resnet18_model.pth')
+# 모델 구조 저장
+torch.save(resnet, 'resnet18.pth')
+# 가중치 저장
+torch.save(resnet.state_dict(), 'resnet18_weights.pth')
