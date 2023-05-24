@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="최종 모델 등록" />
+    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="최종 모델 등록">
+      <change beforePath="$PROJECT_DIR$/resnet32.pth" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testB.jpg" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
