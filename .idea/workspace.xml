@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="최종 모델 등록">
-      <change beforePath="$PROJECT_DIR$/resnet32.pth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testB.jpg" beforeDir="false" />
+    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Resnet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Resnet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -201,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683013466267</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1684909267011</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684909267011</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -241,6 +249,7 @@
     <MESSAGE value="add data" />
     <MESSAGE value="학습된 모델로 예측결과 가져오기" />
     <MESSAGE value="최종 모델 등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="최종 모델 등록" />
+    <MESSAGE value="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
 </project>
