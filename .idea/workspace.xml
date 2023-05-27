@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="최종 모델 등록">
-      <change beforePath="$PROJECT_DIR$/resnet32.pth" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/testB.jpg" beforeDir="false" />
+    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="gitignore 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +20,12 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <branch-grouping />
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="mimi" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -33,25 +37,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/mihye/Desktop/캡스톤/code/Resnet&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/USER/PycharmProjects/Alexnet",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\code\Resnet" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image224" />
       <recent name="$PROJECT_DIR$/abc_testImages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\USER\Desktop\code\Resnet" />
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.main">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Resnet" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,15 +102,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.test" />
         <item itemvalue="Python.main" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="애플리케이션 수준" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="디폴트 작업">
-      <changelist id="9781a9d6-0a82-4828-9ce5-35a244ae8c6b" name="변경" comment="" />
+      <changelist id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
       <created>1678856241123</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -201,7 +207,35 @@
       <option name="project" value="LOCAL" />
       <updated>1683013466267</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1684909267011</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1684909267011</updated>
+    </task>
+    <task id="LOCAL-00015" summary="gitignore 수정">
+      <created>1685088681626</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1685088681626</updated>
+    </task>
+    <task id="LOCAL-00016" summary="kfold, 학습률 스케줄링 추가">
+      <created>1685089585669</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1685089585669</updated>
+    </task>
+    <task id="LOCAL-00017" summary="gitignore 수정">
+      <created>1685180513069</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1685180513069</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -215,13 +249,28 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="main" />
+                        <option value="resnet34" />
                       </list>
                     </value>
                   </entry>
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>
@@ -241,6 +290,10 @@
     <MESSAGE value="add data" />
     <MESSAGE value="학습된 모델로 예측결과 가져오기" />
     <MESSAGE value="최종 모델 등록" />
-    <option name="LAST_COMMIT_MESSAGE" value="최종 모델 등록" />
+    <MESSAGE value="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <MESSAGE value="kfold, 학습률 스케줄링 코드 추가" />
+    <MESSAGE value="kfold, 학습률 스케줄링 추가" />
+    <MESSAGE value="gitignore 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="gitignore 수정" />
   </component>
 </project>
