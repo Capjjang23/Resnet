@@ -1,6 +1,5 @@
 import torch.nn as nn
 import torch.optim as optim
-import torchvision
 from torch.utils.data import DataLoader
 import torchvision.datasets as datasets
 import torchvision.transforms as transforms
@@ -26,7 +25,7 @@ train_dataset = datasets.ImageFolder(root='trainImages', transform=data_transfor
 test_dataset = datasets.ImageFolder(root='testImages', transform=data_transforms)
 
 # 모델 생성 후 L2 정규화 적용
-resnet = torchvision.models.resnet34(pretrained=True)
+resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet34')
 resnet.fc = nn.Sequential(
     nn.Dropout(p=0.5),  # 드롭아웃 추가
     nn.Linear(512, 26)  # 출력층의 뉴런 수는 26
