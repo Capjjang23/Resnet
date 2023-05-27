@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="gitignore 수정">
+    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="kfold, 학습률 스케줄링 추가">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,14 +38,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/USER/PycharmProjects/Alexnet",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/code/Resnet&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\USER\Desktop\code\Resnet" />
@@ -235,7 +236,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685180513069</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="gitignore 수정">
+      <created>1685183276398</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1685183276398</updated>
+    </task>
+    <task id="LOCAL-00019" summary="kfold, 학습률 스케줄링 추가">
+      <created>1685183380856</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1685183380856</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -292,8 +307,8 @@
     <MESSAGE value="최종 모델 등록" />
     <MESSAGE value="Merge branch 'resnet34' of https://github.com/Capjjang23/Resnet into resnet34&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <MESSAGE value="kfold, 학습률 스케줄링 코드 추가" />
-    <MESSAGE value="kfold, 학습률 스케줄링 추가" />
     <MESSAGE value="gitignore 수정" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitignore 수정" />
+    <MESSAGE value="kfold, 학습률 스케줄링 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="kfold, 학습률 스케줄링 추가" />
   </component>
 </project>

@@ -1,5 +1,6 @@
 import torch.nn as nn
 import torch.optim as optim
+import torchvision
 from torch.utils.data import DataLoader
 import torchvision.datasets as datasets
 import torchvision.transforms as transforms
@@ -14,7 +15,7 @@ if device.type == "cuda":
     torch.cuda.init()
 
 data_transforms = transforms.Compose([
-    transforms.Resize(227),
+    transforms.Resize(224),
     transforms.CenterCrop(224),
     transforms.ToTensor(),
     transforms.Normalize(mean=[0.485, 0.456, 0.406], std=[0.229, 0.224, 0.225])
@@ -25,7 +26,7 @@ train_dataset = datasets.ImageFolder(root='trainImages', transform=data_transfor
 test_dataset = datasets.ImageFolder(root='testImages', transform=data_transforms)
 
 # 모델 생성 후 L2 정규화 적용
-resnet = torch.hub.load('pytorch/vision:v0.6.0', 'resnet34')
+resnet = torchvision.models.resnet34(pretrained=True)
 resnet.fc = nn.Sequential(
     nn.Dropout(p=0.5),  # 드롭아웃 추가
     nn.Linear(512, 26)  # 출력층의 뉴런 수는 26
@@ -55,9 +56,9 @@ for fold, (train_indices, val_indices) in enumerate(kfold.split(train_dataset)):
     val_sampler = torch.utils.data.SubsetRandomSampler(val_indices)
 
     trainloader = torch.utils.data.DataLoader(train_dataset, batch_size=32,
-                                              sampler=train_sampler, num_workers=4)  # 수정: num_workers 값 조정
+                                              sampler=train_sampler, num_workers=0)
     valloader = torch.utils.data.DataLoader(train_dataset, batch_size=32,
-                                            sampler=val_sampler, num_workers=4)  # 수정: num_workers 값 조정
+                                            sampler=val_sampler, num_workers=0)
 
     # 모델 학습을 위한 하이퍼파라미터 설정
     criterion = nn.CrossEntropyLoss()
@@ -127,7 +128,7 @@ for fold, (train_indices, val_indices) in enumerate(kfold.split(train_dataset)):
             torch.save(resnet.state_dict(), 'resnet34_best.pth')
 
 # 테스트 데이터셋에 대한 DataLoader 생성
-testloader = torch.utils.data.DataLoader(test_dataset, batch_size=32, shuffle=False, num_workers=4)  # 수정: num_workers 값 조정
+testloader = torch.utils.data.DataLoader(test_dataset, batch_size=32, shuffle=False, num_workers=0)
 
 # 모델 평가
 correct = 0
