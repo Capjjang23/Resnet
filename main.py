@@ -6,7 +6,7 @@ import torchvision.transforms as transforms
 import torch
 from sklearn.model_selection import KFold
 
-EPOCH = 15
+EPOCH = 10
 
 # CUDA 초기화
 device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
@@ -119,12 +119,24 @@ for fold, (train_indices, val_indices) in enumerate(kfold.split(train_dataset)):
         val_losses.append(val_loss)
         accuracy = 100 * val_correct / val_total
         accuracies.append(accuracy)
-        print('[fold: %d, epoch: %d] train loss: %.3f, val loss: %.3f, accuracy: %.2f' % (fold+1, epoch+1, train_losses[-1], val_losses[-1], accuracy))
+        print('[fold: %d, epoch: %d] train loss: %.3f, val loss: %.3f, accuracy: %.2f' % (
+        fold + 1, epoch + 1, train_losses[-1], val_losses[-1], accuracy))
 
         # 최고 정확도일 때 모델 저장
         if accuracy > best_accuracy:
             best_accuracy = accuracy
             torch.save(resnet.state_dict(), 'resnet34_best.pth')
+
+    # 결과 저장
+    result_file = "result_resnet34.txt"
+    with open(result_file, "a") as f:
+        f.write("******** Fold {} ******/**\n".format(fold+1))
+        for epoch in range(EPOCH):
+            f.write("Epoch: {}\n".format(epoch + 1))
+            f.write("Train Loss: {:.3f}\n".format(train_losses[epoch]))
+            f.write("Val Loss: {:.3f}\n".format(val_losses[epoch]))
+            f.write("Accuracy: {:.2f}%\n".format(accuracies[epoch]))
+            f.write("----------\n")
 
 # 테스트 데이터셋에 대한 DataLoader 생성
 testloader = torch.utils.data.DataLoader(test_dataset, batch_size=32, shuffle=False, num_workers=0)
@@ -148,12 +160,12 @@ print('Accuracy of the network on the testImages images: %.2f %%' % test_accurac
 torch.save(resnet.state_dict(), 'resnet34_weights.pth')
 
 # 결과 저장
-result_file = "result_resnet34.txt"
-with open(result_file, "w") as f:
-    for epoch in range(EPOCH):
-        f.write("Epoch: {}\n".format(epoch + 1))
-        f.write("Train Loss: {:.3f}\n".format(train_losses[epoch]))
-        f.write("Val Loss: {:.3f}\n".format(val_losses[epoch]))
-        f.write("Accuracy: {:.2f}%\n".format(accuracies[epoch]))
-        f.write("----------\n")
+# result_file = "result_resnet34.txt"
+with open(result_file, "a") as f:
+    #     for epoch in range(EPOCH):
+    #         f.write("Epoch: {}\n".format(epoch + 1))
+    #         f.write("Train Loss: {:.3f}\n".format(train_losses[epoch]))
+    #         f.write("Val Loss: {:.3f}\n".format(val_losses[epoch]))
+    #         f.write("Accuracy: {:.2f}%\n".format(accuracies[epoch]))
+    #         f.write("----------\n")
     f.write("\nTest Accuracy: {:.2f}%\n".format(test_accuracy))
