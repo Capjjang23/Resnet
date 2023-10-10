@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="kfold, 학습률 스케줄링 추가">
+    <list default="true" id="7c41e343-e2db-4448-a20e-2573fa0da4f2" name="Changes" comment="TrainLoss, valLoss 코드 수정">
+      <change beforePath="$PROJECT_DIR$/.idea/Resnet.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Resnet.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
@@ -32,6 +34,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2N2JSIf3CqvOQ9oiPtGMkSil8gX" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -42,18 +47,29 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/USER/Desktop/code/Resnet&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;resnet34&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gnswh/PycharmProjects/BankingNow_Server&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\gnswh\PycharmProjects\Resnet" />
       <recent name="C:\Users\USER\Desktop\code\Resnet" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/image224" />
       <recent name="$PROJECT_DIR$/abc_testImages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\gnswh\PycharmProjects\Resnet\testImages" />
+      <recent name="C:\Users\gnswh\PycharmProjects\Resnet\trainImages" />
+      <recent name="C:\Users\gnswh\PycharmProjects\Resnet" />
       <recent name="C:\Users\USER\Desktop\code\Resnet" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -71,6 +87,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -92,6 +109,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
@@ -116,6 +134,11 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1678856241123</updated>
+      <workItem from="1693369181953" duration="1493000" />
+      <workItem from="1693370698340" duration="5677000" />
+      <workItem from="1693458639514" duration="38211000" />
+      <workItem from="1695024090706" duration="3357000" />
+      <workItem from="1695055971105" duration="20476000" />
     </task>
     <task id="LOCAL-00001" summary="abc_testImage add">
       <created>1678856339510</created>
@@ -253,7 +276,25 @@
     <option name="localTasksCounter" value="20" />
     <servers />
   </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -271,21 +312,6 @@
                 </map>
               </option>
             </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-    <option name="RECENT_FILTERS">
-      <map>
-        <entry key="User">
-          <value>
-            <list>
-              <RecentGroup>
-                <option name="FILTER_VALUES">
-                  <option value="*" />
-                </option>
-              </RecentGroup>
-            </list>
           </value>
         </entry>
       </map>
@@ -309,6 +335,10 @@
     <MESSAGE value="kfold, 학습률 스케줄링 코드 추가" />
     <MESSAGE value="gitignore 수정" />
     <MESSAGE value="kfold, 학습률 스케줄링 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="kfold, 학습률 스케줄링 추가" />
+    <MESSAGE value="TrainLoss, valLoss 코드 수정" />
+    <option name="LAST_COMMIT_MESSAGE" value="TrainLoss, valLoss 코드 수정" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Resnet$main.coverage" NAME="main Coverage Results" MODIFIED="1695319461552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
